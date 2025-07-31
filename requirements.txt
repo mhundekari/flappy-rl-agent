@@ -1,0 +1,6 @@
+pygame==2.6.1
+gym==0.26.2
+ple @ git+https://github.com/ntasfi/PyGame-Learning-Environment.git
+numpy
+matplotlib
+torch
