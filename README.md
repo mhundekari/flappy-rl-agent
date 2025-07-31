@@ -24,6 +24,12 @@ pip install -r requirements.txt
 
 ```
 
+> Hinweis: Die PyGame Learning Environment (PLE) muss separat geklont werden:
+
+```bash
+git clone https://github.com/ntasfi/PyGame-Learning-Environment
+```
+
 2. Notebook starten:
 
 ```bash
